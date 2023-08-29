@@ -1,0 +1,1 @@
+select title, amount, 1.65*amount as pask from book
